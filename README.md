@@ -15,7 +15,7 @@ Aplicación de chatbot de escritorio desarrollada con Python y el framework Flet
 
 ## 📸 Screenshot
 
-*Aquí puedes insertar una captura de pantalla de la aplicación en funcionamiento.*
+
 
 ![Screenshot de la App](/assets/chatbot-flet.png)
 
